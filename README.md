@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there, I'm Mauricio Cruz 👋
 
+
+## 📷 My IG <a href = "https://www.instagram.com/mauricio.acp/">HERE</a>
 <!--
 **mauriciocruzp/mauriciocruzp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
