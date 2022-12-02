@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Mauricio Cruz</h1>
 <h3 align="center">A software development student from Mexico</h3>
+<h4 align="center">HackUPChiapas 2022 "Local Business Entrepeneurment Category" Winner</h4>
 
 - 🌱 I’m currently learning **Java, Spring, ReactJS ...**
 
