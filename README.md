@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mauricio Cruz</h1>
 <h3 align="center">A software development student from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mauricioacp" alt="mauricioacp" /></a> </p>
-
 - 🌱 I’m currently learning **Ruby on rails, Spring, ReactJS**
 
 - 📫 How to reach me **mauricioacp34@gmail.com**
