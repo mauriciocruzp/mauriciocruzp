@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/mauwu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mauwu00" height="30" width="40" /></a>
 <a href="https://instagram.com/mauwu00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauwu00" height="30" width="40" /></a>
-<a href="https://discord.gg/Mauwu#1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mauwu#1409" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
