@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio Cruz</h1>
 <h3 align="center">A software engineering student from Mexico</h3>
 <div align="center">
-🌱 I’m currently learning **Angular and Spring**
+🌱 I’m currently learning <b>Angular and Spring</b>
 
 📫 How to reach me **mauricioacp34@gmail.com**
 </div>
